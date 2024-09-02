@@ -1,0 +1,5 @@
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link rel="stylesheet" href="../stylesheet/style.css">
+<link rel="stylesheet" href="../css/alert.css">
+<link rel="stylesheet" href="../css/all.css">
+<link rel="icon" href="../images/tuk25.jfif" type="image/x-icon">
